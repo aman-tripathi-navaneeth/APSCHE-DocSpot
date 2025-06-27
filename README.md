@@ -4,9 +4,13 @@ DocSpot is a modern full-stack web application that allows patients, doctors, an
 
 ---
 
-Demo video :- https://drive.google.com/file/d/1v544HuIngLw03XbBJt1Mzky_9Gv_CfPn/view?usp=sharing 
-<br>
-Documentation :- https://docs.google.com/document/d/1grgExpepJPisRrjAKKgaCFvdHheWWxHD/edit?usp=sharing&ouid=108374211995556585634&rtpof=true&sd=true
+### 📹 Demo Video  
+🔗 [Watch Demo](https://drive.google.com/file/d/1v544HuIngLw03XbBJt1Mzky_9Gv_CfPn/view?usp=sharing)
+
+### 📄 Documentation  
+🔗 [View Documentation](https://docs.google.com/document/d/1grgExpepJPisRrjAKKgaCFvdHheWWxHD/edit?usp=sharing&ouid=108374211995556585634&rtpof=true&sd=true)
+
+---
 
 ## 🚀 Features
 
@@ -50,5 +54,3 @@ Documentation :- https://docs.google.com/document/d/1grgExpepJPisRrjAKKgaCFvdHhe
 - **Bootstrap / React-Bootstrap** – Responsive styling
 - **MDB React UI Kit** – Material Design components
 - **Ant Design (antd)** – UI feedback (notifications)
-
-
