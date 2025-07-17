@@ -131,15 +131,3 @@ npm start
 
 ---
 
-## ❓ Need Help?
-
-* Open an issue on [GitHub](https://github.com/Mylapalli/DocSpot/issues)
-* Or email: [yesebumylapalli08@gmail.com](mailto:your-email@example.com)
-
----
-
-## 👨‍💼 Developed By
-
-* Yesebu Mylapalli
-* B.Tech CSE, Ideal Institute of technology
-* GitHub: [your-username](https://github.com/MylapalliYesebu)
